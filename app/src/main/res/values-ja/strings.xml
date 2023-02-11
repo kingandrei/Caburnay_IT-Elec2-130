@@ -1,6 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">My Application</string>
-    <string name="button1">Send</string>
     <string name="to">To</string>
     <string name="subject">Subject</string>
     <string name="message">Message</string>
