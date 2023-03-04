@@ -5,4 +5,12 @@
     <string name="subject">Subject</string>
     <string name="message">Message</string>
     <string name="button">Button</string>
+
+    <string-array name="number">
+        <item>One</item>
+        <item>Two</item>
+        <item>Three</item>
+        <item>Four</item>
+        <item>Five</item>
+    </string-array>
 </resources>
