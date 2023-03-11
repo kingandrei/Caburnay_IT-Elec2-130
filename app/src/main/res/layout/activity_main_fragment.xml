@@ -7,7 +7,7 @@
     tools:context=".MainFragment">
 
     <Button
-        android:id="@+id/button2"
+        android:id="@+id/button1"
         android:layout_width="321dp"
         android:layout_height="155dp"
         android:text="Fragment A"
@@ -18,12 +18,24 @@
         app:layout_constraintVertical_bias="0.071" />
 
     <Button
-        android:id="@+id/button4"
+        android:id="@+id/button2"
         android:layout_width="321dp"
         android:layout_height="155dp"
         android:text="Fragment B"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.381" />
+
+    <FrameLayout
+        android:layout_width="408dp"
+        android:layout_height="356dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="1.0">
+
+    </FrameLayout>
 </androidx.constraintlayout.widget.ConstraintLayout>
