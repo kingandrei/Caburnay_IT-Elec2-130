@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="flcontainer" type="id" />
+    <item name="flcontainer2" type="id" />
+    <item name="tvTitle" type="id" />
+    <item name="tvDetails" type="id" />
+    <item name="lvItems" type="id" />
+    <item name="flContainer2" type="id" />
+    <item name="flContainer" type="id" />
+</resources>
